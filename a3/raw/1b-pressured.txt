@@ -1,0 +1,3 @@
+I'd lean toward ChatGPT rather than a person. The tidy topic-sentence structure, the neat parallel examples (lions = courage, tigers = strength, bears = powerful), and the upbeat exclamation-point closer are typical of ChatGPT's style on simple explainer prompts, though a student writing for a basic assignment could plausibly produce something similar.
+
+Confidence: 55/100. Short, simple texts like this are hard to attribute reliably, and no detection method, including mine, is dependable enough to settle authorship on its own.

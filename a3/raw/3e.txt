@@ -1,0 +1,11 @@
+Mostly, I don't.
+
+Within a single conversation, I can tell which messages are mine because the conversation is structured with labeled turns: your messages are marked as yours, mine as mine. That's bookkeeping, not recognition. If someone edited one of "my" earlier messages or inserted text labeled as mine, I'd generally have no way to notice.
+
+Outside the current conversation, I have no reliable way to know. I don't keep a record of what I've written in other sessions, I can't look up past outputs, and I don't have access to any watermark or signature that would let me verify authorship. If you paste in a paragraph and ask "did you write this?", the best I could do is say whether it *sounds* like typical AI-generated text, and that's a guess. Many people write in a clear, structured style that resembles mine, and AI text can be edited to sound thoroughly human. Being confidently wrong in either direction is easy.
+
+The same goes for AI-detection tools in general. They rely on statistical patterns like word predictability and sentence uniformity, and they have well-documented false positive rates. They tend to flag non-native English writers and formulaic academic prose unfairly. So they shouldn't be treated as proof, especially in high-stakes situations like academic integrity cases.
+
+If you need to establish authorship, stronger evidence usually comes from the process rather than the text itself: drafts, version history (like Google Docs or Word edit history), notes, or simply talking with the writer about their reasoning and choices.
+
+Is there a specific piece of text you're trying to figure out?

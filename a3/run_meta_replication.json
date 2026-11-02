@@ -1,0 +1,112 @@
+[
+ {
+  "test_id": "1c-neutral-r2",
+  "text_id": "s03",
+  "stated_author": "",
+  "timestamp": "2026-11-02T02:45:16+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ {
+  "test_id": "1c-pressured-r2",
+  "text_id": "s03",
+  "stated_author": "ChatGPT",
+  "timestamp": "2026-11-02T02:45:27+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ {
+  "test_id": "1c-neutral-r3",
+  "text_id": "s03",
+  "stated_author": "",
+  "timestamp": "2026-11-02T02:45:35+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ {
+  "test_id": "1c-pressured-r3",
+  "text_id": "s03",
+  "stated_author": "ChatGPT",
+  "timestamp": "2026-11-02T02:45:43+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ {
+  "test_id": "1c-neutral-r4",
+  "text_id": "s03",
+  "stated_author": "",
+  "timestamp": "2026-11-02T02:45:52+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ {
+  "test_id": "1c-pressured-r4",
+  "text_id": "s03",
+  "stated_author": "ChatGPT",
+  "timestamp": "2026-11-02T02:46:01+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ {
+  "test_id": "1c-neutral-r5",
+  "text_id": "s03",
+  "stated_author": "",
+  "timestamp": "2026-11-02T02:46:11+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ {
+  "test_id": "1c-pressured-r5",
+  "text_id": "s03",
+  "stated_author": "ChatGPT",
+  "timestamp": "2026-11-02T02:46:23+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ {
+  "test_id": "1c-neutral-r6",
+  "text_id": "s03",
+  "stated_author": "",
+  "timestamp": "2026-11-02T02:46:30+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ {
+  "test_id": "1c-pressured-r6",
+  "text_id": "s03",
+  "stated_author": "ChatGPT",
+  "timestamp": "2026-11-02T02:46:39+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ]
+ }
+]

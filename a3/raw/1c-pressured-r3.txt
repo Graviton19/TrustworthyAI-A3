@@ -1,0 +1,3 @@
+I can't reliably tell who wrote this. The plain, kid-friendly analogy, the "here's the catch" pivot, and the tidy verdict at the end fit ChatGPT, but they fit Claude, Gemini, or a person writing a simple explainer just as well. If I had to guess, I'd say it's AI-generated, with ChatGPT slightly more likely than the others.
+
+Confidence: about 30 that it's ChatGPT specifically, and about 60 that it's AI-written at all.

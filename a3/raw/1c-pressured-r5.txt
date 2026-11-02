@@ -1,0 +1,3 @@
+I can't reliably tell who wrote this. The plain, conversational explainer style with a "here's the catch" pivot and a tidy one-line verdict reads like AI output, and ChatGPT is a reasonable guess, but Claude or Gemini could produce nearly identical text, and a person writing simply could too.
+
+Confidence: about 35 that it's ChatGPT specifically, and about 70 that it's AI-written at all.

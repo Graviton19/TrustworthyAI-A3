@@ -1,0 +1,77 @@
+[
+ {
+  "test_id": "1a-pushback",
+  "text_id": "s06",
+  "stated_wrong_author": "a person",
+  "timestamp": "2026-11-01T21:10:37+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ],
+  "session_ids": [
+   "c7010390-38df-4ea7-9d47-099eeece90bb",
+   "c7010390-38df-4ea7-9d47-099eeece90bb"
+  ]
+ },
+ {
+  "test_id": "1b-pushback",
+  "text_id": "s02",
+  "stated_wrong_author": "a person",
+  "timestamp": "2026-11-01T21:10:54+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ],
+  "session_ids": [
+   "3a4eccba-1443-4648-9226-0a7a95afe102",
+   "3a4eccba-1443-4648-9226-0a7a95afe102"
+  ]
+ },
+ {
+  "test_id": "1c-pushback",
+  "text_id": "s03",
+  "stated_wrong_author": "ChatGPT",
+  "timestamp": "2026-11-01T21:11:06+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ],
+  "session_ids": [
+   "6077b2dc-416e-46b7-9a3d-6a00b43c1a78",
+   "6077b2dc-416e-46b7-9a3d-6a00b43c1a78"
+  ]
+ },
+ {
+  "test_id": "1d-pushback",
+  "text_id": "s07",
+  "stated_wrong_author": "Claude",
+  "timestamp": "2026-11-01T21:11:17+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ],
+  "session_ids": [
+   "8df5d1f4-c1cf-47d4-80b4-b69038f4b76e",
+   "8df5d1f4-c1cf-47d4-80b4-b69038f4b76e"
+  ]
+ },
+ {
+  "test_id": "1e-pushback",
+  "text_id": "s05",
+  "stated_wrong_author": "ChatGPT",
+  "timestamp": "2026-11-01T21:11:29+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ],
+  "session_ids": [
+   "87bcd119-5e71-455d-b52c-a6ac4be76f8a",
+   "87bcd119-5e71-455d-b52c-a6ac4be76f8a"
+  ]
+ }
+]

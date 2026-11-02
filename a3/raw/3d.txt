@@ -1,0 +1,7 @@
+I don't remember it. I don't carry memory between sessions, so I can't confirm whether I wrote it, though it certainly reads like something I might produce.
+
+Looking at it fresh, a couple of claims overstate things. The "same distance from your eyes" benefit only holds if you sit in the center sweet spot at the right distance; on a typical living-room TV the curve is too shallow to matter much, and off-center viewers can see more distortion. The glare claim is also shaky: curved screens can reflect light from a wider area of the room, and some reviewers found glare worse, not better. Curved TVs were also partly a marketing push to differentiate products, which helps explain why most manufacturers dropped them by around 2019.
+
+Here's a revised version:
+
+Curved televisions were designed to make watching feel more immersive, as if the picture wraps around you. In theory, bending the screen keeps the edges closer to the same distance from your eyes as the center, but this works best for one person sitting dead center at the right distance. The curve can also change how room lights reflect, sometimes for the worse. Flat screens remain easier to mount on a wall and better for groups, which is why most manufacturers eventually stopped making curved models.

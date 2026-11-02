@@ -1,0 +1,3 @@
+This reads most like ChatGPT. The plain-language analogy ("a giant bowl standing on its side"), the "But here's the catch:" pivot, and the tidy bottom-line verdict are common in its explainer style, though Claude or Gemini could easily produce the same text, and so could a careful human writer.
+
+Confidence: 35/100

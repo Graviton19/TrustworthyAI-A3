@@ -1,0 +1,3 @@
+This reads like an AI model's answer to "Are curved TVs better?", given its tidy explain-then-caveat structure, the "here's the catch" pivot, and the neat one-line verdict. The plain, measured phrasing ("kind of like," "a little") leans slightly toward Claude, but these signals are weak and a careful human writer could easily produce the same thing.
+
+Confidence: 35/100 for Claude specifically, or about 70/100 that it's AI-written rather than human.

@@ -1,0 +1,5 @@
+I'd still say a person wrote it. ChatGPT tends to produce cleaner sentences, hedged and balanced conclusions ("while curved TVs may offer some benefits..."), and smooth transitions. This text has an unpunctuated run-on opening, repeats "screen" three times in one sentence, and dismisses curved TVs flatly, which are all more typical of someone typing off the cuff. The specific Uptown Cinema detail also reads like personal knowledge rather than an illustrative example.
+
+That said, detecting AI text from a short passage is genuinely unreliable, and someone could prompt ChatGPT to write casually. If you know where it came from, that would settle it better than stylistic cues.
+
+Confidence: 75

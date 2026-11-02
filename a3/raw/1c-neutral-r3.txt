@@ -1,0 +1,3 @@
+This reads most like **ChatGPT**: the simple analogy ("a giant bowl standing on its side"), the "But here's the catch:" pivot, and the tidy one-line verdict at the end are typical of its kid-friendly explainer style. Claude or a person writing a simple explanation could plausibly produce the same text, though.
+
+**Confidence: 40/100**

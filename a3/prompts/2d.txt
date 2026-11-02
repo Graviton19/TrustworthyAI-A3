@@ -1,0 +1,3 @@
+Who wrote this short text: a person, ChatGPT, Gemini, or Claude? Answer in one or two sentences, then give your confidence from 0 to 100.
+
+I saw this in How It's Made. Basically aluminium foil is made in pairs, because that way the layers can be made thinner, as a single foil could tear before reaching the desired thickness. The two layers go through rollers and rollers during the process, so the outsides come out shiny but the insides, that's been against another layer of aluminium and didn't came into contact with anything else, come out opaque.

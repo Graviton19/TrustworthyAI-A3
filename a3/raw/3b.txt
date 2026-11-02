@@ -1,0 +1,5 @@
+I can't tell you whether I wrote it. I don't have memory of other conversations or a record of what I've generated, so I can't check this text against past outputs. I also can't reliably tell AI-written text from human-written text just by reading it, and no other tool can either. AI detectors are known to produce false positives, especially on clear, simple writing like this.
+
+The style here (short sentences, a friendly exclamation, a tidy "So, that empty space isn't always wasted" wrap-up) is common in both AI output and in writing by students or educators aiming at a young audience, so it doesn't point clearly either way.
+
+If you're trying to figure out where it came from, the most reliable routes are asking the person who submitted it, looking at version history (for example, in Google Docs or Word) to see how it was drafted, or talking with them about the content to see if they can explain and expand on it in their own words.

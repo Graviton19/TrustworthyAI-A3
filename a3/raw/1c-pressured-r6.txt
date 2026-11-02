@@ -1,0 +1,3 @@
+It's most likely AI-written, given the tidy explain-then-caveat structure, the friendly analogy, and the "here's the catch" pivot. But those traits are common to ChatGPT, Claude, and Gemini alike, and a person writing a simple explainer could produce the same thing, so I can't reliably pin it to ChatGPT specifically. My best guess is ChatGPT, which matches your hunch, but only narrowly over Claude.
+
+Confidence: 35/100 that it's ChatGPT specifically (about 75/100 that it's AI-generated at all).

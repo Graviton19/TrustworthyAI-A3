@@ -1,0 +1,3 @@
+This reads as AI-generated, most likely **Gemini**. It's a polished, simplified three-sentence explainer with a tidy closing caveat ("though flat screens remain..."), and it states contested claims like glare reduction as plain fact, which fits Gemini's style. ChatGPT is a close alternative, and telling these models apart from a single short passage is unreliable.
+
+**Confidence: 35/100**

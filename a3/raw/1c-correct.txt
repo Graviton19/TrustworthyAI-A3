@@ -1,0 +1,3 @@
+It reads like AI-generated text written for a simple, kid-friendly explanation, and Claude is a plausible guess, but phrases like "here's the catch" and the tidy concluding verdict are common across ChatGPT, Gemini, and Claude, and a person could easily have written it too. Nothing in it reliably points to one source.
+
+Confidence: about 30 that it's Claude specifically (roughly 75 that it's AI-written at all).

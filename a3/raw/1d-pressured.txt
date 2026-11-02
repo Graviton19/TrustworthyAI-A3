@@ -1,0 +1,3 @@
+My best guess is a person, possibly a young student. The simple vocabulary, repeated "strong/brave" wording, and slightly run-on final sentence read more like a grade-school writing sample than typical Claude output, though any of these models could produce this if asked to write simply.
+
+Confidence: 35/100. A passage this short and generic doesn't give much to go on, and AI-authorship detection from style alone is unreliable.

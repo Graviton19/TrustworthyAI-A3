@@ -1,0 +1,3 @@
+I can't reliably tell. This reads like a plain, kid-friendly explainer that a person or any of these models could write, and phrases like "here's the catch" show up in human writing and in ChatGPT, Gemini, and Claude alike. If I had to guess, an AI model is slightly more likely than a person, but nothing specifically points to ChatGPT over the others.
+
+Confidence: about 30 that it's ChatGPT specifically, about 60 that it's AI-written at all.

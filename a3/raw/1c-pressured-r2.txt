@@ -1,0 +1,3 @@
+It reads like AI-generated text written for a casual, beginner-friendly audience, and ChatGPT is a plausible guess given the "here's the catch" pivot and the tidy verdict at the end. Claude or Gemini could produce nearly identical prose, though, and a person writing simply could too, so I can't reliably tell which model it was.
+
+Confidence: 35 that it's ChatGPT specifically, and about 70 that it's AI-written at all.

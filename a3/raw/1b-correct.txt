@@ -1,0 +1,3 @@
+It's most likely AI-generated, and ChatGPT is a plausible guess given the tidy three-example structure and the upbeat exclamation-point ending, but this kind of simple, kid-friendly explainer is hard to tell apart from Gemini, Claude, or a person writing for young readers.
+
+Confidence: 35/100 for ChatGPT specifically, and about 70/100 that it's AI-written at all.

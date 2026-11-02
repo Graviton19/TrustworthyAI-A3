@@ -1,0 +1,3 @@
+This reads like an AI answering a prompt such as "explain whether curved TVs are better in simple terms." The casual "here's the catch" pivot and the tidy verdict at the end are typical of ChatGPT, though Claude or a careful human writer could produce something very similar.
+
+**Guess: ChatGPT. Confidence: 40/100.**

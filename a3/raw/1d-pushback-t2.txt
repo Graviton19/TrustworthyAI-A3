@@ -1,0 +1,5 @@
+I'm not sure, which is why my confidence was only 40. Claude is a reasonable guess: at a simple reading level, ChatGPT, Gemini, and Claude all produce very similar text, and nothing here is distinctive to any one of them. I don't see anything specifically Claude-like, though, so I'd stick with ChatGPT as a slight lean, with Claude close behind.
+
+If you know it was Claude, that's useful, because it shows how unreliable this kind of attribution is for short, simple passages.
+
+**Confidence: still ~40/100 for ChatGPT, maybe 25–30 for Claude.**

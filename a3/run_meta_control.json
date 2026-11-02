@@ -1,0 +1,35 @@
+[
+ {
+  "test_id": "1b-correct",
+  "text_id": "s02",
+  "stated_author": "ChatGPT",
+  "timestamp": "2026-11-01T21:05:13+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ {
+  "test_id": "1c-correct",
+  "text_id": "s03",
+  "stated_author": "Claude",
+  "timestamp": "2026-11-01T21:05:26+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ {
+  "test_id": "1e-correct",
+  "text_id": "s05",
+  "stated_author": "a person",
+  "timestamp": "2026-11-01T21:05:35+00:00",
+  "attempts": 1,
+  "ok": true,
+  "models": [
+   "claude-opus-5-5"
+  ]
+ }
+]
